@@ -1,18 +1,18 @@
 .text-platzi{
-  color: #97C93E !important;
+  color: #c93e3e !important;
 }
 
 .btn-white:hover{
-  color: #97C93E;
+  color: #c93e3e;
 }
 
 .btn-platzi{
-  background-color: #97C93E;
+  background-color: #c93e3e;
   color: white;
 }
 
 .btn-platzi:hover{
-  background-color: #82AD36;
+  background-color: #c93e3e;
   color: white;
 }
 
@@ -58,7 +58,7 @@
 }
 
 #footer{
-  background: linear-gradient(90deg,#1C3643,#273B47 25%, #1E5372);
+  background: gray;
 }
 
 #footer a{
